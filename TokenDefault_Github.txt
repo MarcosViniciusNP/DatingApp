@@ -1,0 +1,10 @@
+https://github.com/settings/tokens
+
+Make sure to copy your personal access token now. You won’t be able to see it again!
+
+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
+
+
+login: MarcosViniciusNP
+
+Senha: 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
